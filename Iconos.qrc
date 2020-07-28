@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Recursos/colegio.png</file>
+        <file>Recursos/informacion.png</file>
+        <file>Recursos/nuevo-documento.png</file>
+        <file>Recursos/salvar.png</file>
+    </qresource>
+</RCC>
